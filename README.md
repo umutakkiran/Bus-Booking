@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 ## Getting Started
@@ -163,3 +164,6 @@ Giriş yaptıktan sonra, localstorage da userToken isimli bir değer oluşturuyo
 =======
 # Bus-Ticket-Booking-Web-App
 >>>>>>> 528f8ef8104712e0c63a6f528582290dc76bcaa6
+=======
+# Bus-Booking
+>>>>>>> 06b6367db6a4ec958fab00e02aa4d8084f0b94e9
