@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 ## Getting Started
@@ -159,3 +160,6 @@ Giriş yaptıktan sonra, localstorage da userToken isimli bir değer oluşturuyo
             Umut AKKIRAN
             https://github.com/umutakkiran
             https://www.linkedin.com/in/umut-akk%C4%B1ran-2164b6287/
+=======
+# Bus-Ticket-Booking-Web-App
+>>>>>>> 528f8ef8104712e0c63a6f528582290dc76bcaa6
