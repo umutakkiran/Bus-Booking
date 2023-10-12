@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-1-İlk olarak,dosyayı .rar dan çıkartalım ve çıkarılan dosyayı Vs Code aracılığıyla açalım ve bir terminal açıp "cd find-ticket" komutunu girelim ardından development server'ı aşağıdaki kodlardan biri ile (tercihen npm run dev) çalıştıralım:
+1-İlk olarak, .zip dosyasını indirelim ve çıkartalım ve çıkarılan dosyayı açalım, dosyanın içindeki find-ticket haricindeki bütün dosyaları seçip find-ticket dosyasının içine atalım ve kapatalım.Daha sonra "Bus-Booking-main" dosyasını  Vs Code aracılığıyla açalım ve bir terminal açıp "cd find-ticket" komutunu girelim ardından "npm install" komutunu girelim ve gerekli bağımlılıkları yükleyelim.Yüklemenin ardından development server'ı aşağıdaki kodlardan biri ile (tercihen npm run dev) çalıştıralım:
 
 ```bash
 npm run dev
